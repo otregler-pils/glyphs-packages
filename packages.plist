@@ -4122,11 +4122,11 @@
 					cs = "Show OHno";
 				};
 				url = "https://github.com/otregler-pils/Show-OHno";
-				path = "ShowOHno.glyphsReporter";
+				path = "ShowOHno.glyphsPlugin";
 				identifier = "ShowOHno";
 				descriptions = {
-					en = "*View > Show OHno* shows a spacing proof card (e.g. `HHxHnxnn`) above the selected glyph in the Edit View, with kerning and active stylistic sets applied. The card fades out when it doesn’t fit or the zoom is out of range. Right-click in the Edit View to switch the proof string, theme, size and other options.";
-					cs = "*View > Show OHno* zobrazí nad vybraným glyfem v Edit View kartu s kontrolním stringem pro spacing (např. `HHxHnxnn`), včetně kerningu a aktivních stylistických sad. Když se karta nevejde nebo je zoom mimo nastavený rozsah, plynule zmizí. Pravým tlačítkem v Edit View přepneš string, téma, velikost a další volby.";
+					en = "Adds *Show OHno* to the instance pop-up menu of the preview bar, next to *Show All Instances*. It shows the selected glyph in a spacing proof string such as `HHxHnxnn` in the preview, with kerning and active stylistic sets applied, and follows the preview’s size, black/white, blur and flip settings. Pick another proof string in *OHno String*.";
+					cs = "Přidá *Show OHno* do menu instancí v preview baru, vedle *Show All Instances*. Preview pak ukáže vybraný glyf v kontrolním stringu pro spacing, např. `HHxHnxnn`, s kerningem a aktivními stylistickými sadami. Řídí se velikostí, černou/bílou, rozmazáním i převrácením preview. Jiný string vybereš v *OHno String*.";
 				};
 				minVersion = "3000";
 			},
